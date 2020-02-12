@@ -1,0 +1,12 @@
+{
+  "TRANSACTION_HISTORY_V2": {
+    "TRANSACTION_TYPE": {
+      "ALL": "Todas transacciones",
+	  "WITHDRAWAL": "Retirada"
+    },
+	"SUMMARY": {
+      "TRANSACTION_FOR": "para <strong>{{details}}</strong>",
+       "TRANSACTION_FROM": "de <strong>{{details}}</strong>"
+	}
+  }
+}
