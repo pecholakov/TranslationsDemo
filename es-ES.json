@@ -4,9 +4,9 @@
       "ALL": "Todas transacciones",
 	  "WITHDRAWAL": "Retirada"
     },
-	"SUMMARY": {
+    "SUMMARY": {
       "TRANSACTION_FOR": "para <strong>{{details}}</strong>",
-       "TRANSACTION_FROM": "de <strong>{{details}}</strong>"
-	}
+      "TRANSACTION_FROM": "de <strong>{{details}}</strong>"
+    }
   }
 }
