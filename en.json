@@ -2,7 +2,8 @@
   "TRANSACTION_HISTORY_V2": {
     "TRANSACTION_TYPE": {
       "ALL": "All transactions",
-	  "WITHDRAWAL": "Withdrawal"
+      "WITHDRAWAL": "Withdrawal",
+      "DEPOSIT": "Deposit"
     },
     "SUMMARY": {
       "TRANSACTION_FOR": "for <strong>{{details}}</strong>",
