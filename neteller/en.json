@@ -3,8 +3,7 @@
     "TRANSACTION_TYPE": {
       "ALL": "All transactions",
       "WITHDRAWAL": "Withdrawal",
-      "DEPOSIT": "Deposit",
-      "SEND_MONEY": "Send Money"
+      "DEPOSIT": "Deposit"
     },
     "SUMMARY": {
       "TRANSACTION_FOR": "for <strong>{{details}}</strong>",
